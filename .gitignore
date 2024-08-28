@@ -1,3 +1,7 @@
 **/CMakeCache.txt
 **/CMakeFiles
 build
+
+.zig-cache
+zig-out
+Makefile
